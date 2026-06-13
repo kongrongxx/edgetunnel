@@ -1,4 +1,5 @@
-name = "purple-poetry-da43"
+name = "# wrangler.toml
+name = 'edgetunnel'"
 main = "_worker.js"
 compatibility_date = "2025-11-04"
 keep_vars = true
